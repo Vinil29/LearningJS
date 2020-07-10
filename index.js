@@ -24,5 +24,5 @@ function Circle(color, radius){
 //     return this.radius * this.radius * Math.PI;
 // }
 
-let circle = new Circle("Red", 5);
+let circle = new Circle("Red", 6);
 
